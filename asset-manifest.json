@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://lesanf.github.io/Crypto-Tracker/static/js/main.b8044d53.chunk.js",
+    "main.js.map": "https://lesanf.github.io/Crypto-Tracker/static/js/main.b8044d53.chunk.js.map",
+    "runtime-main.js": "https://lesanf.github.io/Crypto-Tracker/static/js/runtime-main.665541cf.js",
+    "runtime-main.js.map": "https://lesanf.github.io/Crypto-Tracker/static/js/runtime-main.665541cf.js.map",
+    "static/js/2.78f6f1ff.chunk.js": "https://lesanf.github.io/Crypto-Tracker/static/js/2.78f6f1ff.chunk.js",
+    "static/js/2.78f6f1ff.chunk.js.map": "https://lesanf.github.io/Crypto-Tracker/static/js/2.78f6f1ff.chunk.js.map",
+    "index.html": "https://lesanf.github.io/Crypto-Tracker/index.html",
+    "static/js/2.78f6f1ff.chunk.js.LICENSE.txt": "https://lesanf.github.io/Crypto-Tracker/static/js/2.78f6f1ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.665541cf.js",
+    "static/js/2.78f6f1ff.chunk.js",
+    "static/js/main.b8044d53.chunk.js"
+  ]
+}
